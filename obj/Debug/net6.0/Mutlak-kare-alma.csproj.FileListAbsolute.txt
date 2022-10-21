@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\bin\Debug\net6.0\Mutlak-kare-alma.exe
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\bin\Debug\net6.0\Mutlak-kare-alma.deps.json
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\bin\Debug\net6.0\Mutlak-kare-alma.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\bin\Debug\net6.0\Mutlak-kare-alma.dll
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\bin\Debug\net6.0\Mutlak-kare-alma.pdb
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.dll
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\refint\Mutlak-kare-alma.dll
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.pdb
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\Mutlak-kare-alma.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Mutlak-kare-alma\obj\Debug\net6.0\ref\Mutlak-kare-alma.dll
